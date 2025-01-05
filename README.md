@@ -62,6 +62,9 @@ O banco de dados inclui **registros gerados aleatóriamente**, com relações de
 3. Execute os desafios usando as consultas fornecidas ou crie suas próprias soluções.
 4. Avalie seu desempenho em SQL com base nos resultados dos desafios.
 
+## Resolução do Autor
+1. Acesse a resolução do autor neste  [Link](https://github.com/pedrolporto/desafio_sqlite_hospital/blob/main/Resolucao_Desafio_pedrolporto.md) 
+
 ## Por Que Este Projeto?
 
 Este desafio simula a complexidade de sistemas de banco de dados do mundo real, fornecendo insights sobre habilidades de resolução de problemas, proficiência em SQL e raciocínio analítico. Ele é ideal para:
